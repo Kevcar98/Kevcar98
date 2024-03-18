@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Kevin First-Class Computer Science Graduate.  Please have a look at my projects!
 
 <!--
 **Kevcar98/Kevcar98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
