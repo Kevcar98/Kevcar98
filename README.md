@@ -1,6 +1,6 @@
 ### Hi, I'm Kevin.  I am a First-Class Computer Science Graduate.  Please have a look at my projects!
 
-![alt text](pankaj-patel-Fi-GJaLRGKc-unsplash.jpg)
+![alt text](pankaj-patel-Fi-GJaLRGKc.jpg)
 
 
 
