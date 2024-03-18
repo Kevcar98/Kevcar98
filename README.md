@@ -1,6 +1,6 @@
 ### Hi, I'm Kevin.  I am a First-Class Computer Science Graduate.  Please have a look at my projects!
 
-![alt text](https://github.com//Kevcar98/Kevcar98/pankaj-patel-Fi-GJaLRGKc-unsplash.jpg?raw=true)
+![alt text](pankaj-patel-Fi-GJaLRGKc-unsplash.jpg)
 
 
 
